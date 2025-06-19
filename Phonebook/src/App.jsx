@@ -54,8 +54,9 @@ const App = () => {
       />
       <h3>Numbers</h3>
       <Persons persons={personsToShow} />
-    </div>
+     </div>
   )
 }
 
 export default App
+ 
